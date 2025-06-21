@@ -1,5 +1,5 @@
 # Login Authentication API Documentation
-
+(using sql server 2022)
 ## Overview
 This API provides a login authentication system using FastAPI and JWT (JSON Web Tokens). It allows users to log in with a username and password, receive a JWT access token, and access protected endpoints using the token for authentication.
 
